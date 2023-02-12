@@ -20,6 +20,7 @@ The Main component is structured as follows:
     
             
 How to Use
+
 In order to use the Main component, you need to import it into your project, and then render it like this:
 
 javascript
