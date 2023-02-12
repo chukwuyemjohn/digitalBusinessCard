@@ -3,6 +3,7 @@ README
 Introduction
 
 This is a README file for a react component named Main which displays a profile page.
+
 Structure
 
 The Main component is structured as follows:
@@ -16,6 +17,24 @@ The Main component is structured as follows:
         An "About" section that provides a brief description of the person.
         An "Interest" section that provides a brief description of the person's interests.
     A footer that displays icons for various social media platforms (Twitter, Facebook, Instagram, and GitHub).
+    
+            
+How to Use
+In order to use the Main component, you need to import it into your project, and then render it like this:
+
+javascript
+
+import Main from './Main';
+
+function App() {
+  return (
+    <div className="App">
+      <Main />
+    </div>
+  );
+}
+
+export default App;
 
 Customization
 
