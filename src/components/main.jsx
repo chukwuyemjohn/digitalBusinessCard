@@ -1,7 +1,7 @@
 export default function Main(){
     return(
         <main className="main">
-            <img src="images/Rectangle 90.png" alt="" className="main--profile-Img" />
+            <img src="images/IMG-9307.jpg" alt="" className="main--profile-Img" />
             {/* tittle */}
             <section className="main--section">
             <div>
